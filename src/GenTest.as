@@ -13,6 +13,9 @@ public class GenTest extends MovieClip
 {
 	public function GenTest()
 	{
+		var gen:OceanGenerator = new OceanGenerator(34241);
+		addChild(gen);
+		gen.y  = 100;
 	}
 }
 }

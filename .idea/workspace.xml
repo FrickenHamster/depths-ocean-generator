@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="795e2908-8776-4b7e-a3ac-f12abe92c03b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GenTest.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HamRandom.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OceanGenerator.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Depthsoceangenerator.mxml" afterPath="$PROJECT_DIR$/src/Depthsoceangenerator.mxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GenTest.as" afterPath="$PROJECT_DIR$/src/GenTest.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OceanGenerator.as" afterPath="$PROJECT_DIR$/src/OceanGenerator.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="depths-ocean-generator.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372196057278" ignored="false" />
+    <file path="/Dummy.txt" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1373261845254" ignored="false" />
     <file path="/fragment.js2" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372198208013" ignored="false" />
-    <file path="/OceanGenerator.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372198881093" ignored="false" />
+    <file path="/OceanGenerator.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372811590007" ignored="false" />
     <file path="/HamRandomInt.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372197775453" ignored="false" />
-    <file path="/GenTest.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372198402053" ignored="false" />
+    <file path="/GenTest.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372717844348" ignored="false" />
     <file path="/Depthsoceangenerator.mxml" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372197936385" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/actor/GridActor.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372715931554" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/actor/Gus.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372823877817" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/grid/GameGrid.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372715931554" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/actor/Enemy.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372715931554" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/sys/GameField.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372823570176" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/actor/LordBeylon.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372715931554" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/actor/IEnemy.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372715931554" ignored="false" />
+    <file path="/GameField.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372812674285" ignored="false" />
+    <file path="$PROJECT_DIR$/../dreamer-of-truths/src/game/sys/DreamerMain.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372812059514" ignored="false" />
+    <file path="/DreamerMain.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372812058933" ignored="false" />
+    <file path="/a.dummy" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372812698244" ignored="false" />
+    <file path="/Gus.as" changelist="795e2908-8776-4b7e-a3ac-f12abe92c03b" time="1372823869839" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +90,8 @@
       <file leaf-file-name="Depthsoceangenerator.mxml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="-14.384615">
-              <folding>
-                <marker date="1372197943470" expanded="true" signature="480:584" placeholder="{...}" />
-              </folding>
+            <state line="24" column="30" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,7 +99,7 @@
       <file leaf-file-name="OceanGenerator.as" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OceanGenerator.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="36" selection-start="420" selection-end="420" vertical-scroll-proportion="0.79204893">
+            <state line="33" column="33" selection-start="623" selection-end="623" vertical-scroll-proportion="0.030195381">
               <folding />
             </state>
           </provider>
@@ -99,7 +108,7 @@
       <file leaf-file-name="GenTest.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GenTest.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+            <state line="15" column="57" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,10 +117,8 @@
       <file leaf-file-name="HamRandom.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HamRandom.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="1" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="55" column="5" selection-start="1019" selection-end="1296" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,6 +161,31 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -182,7 +214,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,19 +253,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="C:/flex/runtimes/player/11.1/win/FlashPlayerDebugger.exe" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -437,36 +470,41 @@
       <created>1372195774660</created>
       <updated>1372195774660</updated>
     </task>
+    <task id="LOCAL-00001" summary="生まれた">
+      <created>1372199847700</created>
+      <updated>1372199847700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39863715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32597622" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.060606062" sideWeight="0.6013629" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.060606062" sideWeight="0.6013629" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.060606062" sideWeight="0.6013629" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3253833" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -539,24 +577,20 @@
     <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1372197943470" expanded="true" signature="480:584" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
+    <entry file="file://$PROJECT_DIR$/src/OceanGenerator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="-14.384615">
-          <folding>
-            <marker date="1372197943470" expanded="true" signature="480:584" placeholder="{...}" />
-          </folding>
+        <state line="27" column="36" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GenTest.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+        <state line="18" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -564,15 +598,90 @@
     <entry file="file://$PROJECT_DIR$/src/HamRandom.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="1" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OceanGenerator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="36" selection-start="420" selection-end="420" vertical-scroll-proportion="0.79204893">
+        <state line="27" column="36" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OceanGenerator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="36" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamRandom.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="1" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HamRandom.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="5" selection-start="1019" selection-end="1296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Depthsoceangenerator.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenTest.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OceanGenerator.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="33" selection-start="623" selection-end="623" vertical-scroll-proportion="0.030195381">
           <folding />
         </state>
       </provider>
